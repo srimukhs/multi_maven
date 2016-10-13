@@ -4,7 +4,7 @@
 
   <groupId>com.byteslounge.main</groupId>
   <artifactId>com-byteslounge-main</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>com-byteslounge-main</name>
@@ -21,10 +21,15 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
+
    <dependency>
 	<groupId>com.byteslounge.lib</groupId>
 	<artifactId>com-byteslounge-lib</artifactId>
 	<version>1.0-SNAPSHOT</version>
     </dependency>
+	 <dependency>
+	<groupId>com.byteslounge.war</groupId>
+  <artifactId>com-byteslounge-war</artifactId>
+  <version>1.0-SNAPSHOT</version>
+		   </dependency>  </dependencies>
 </project>
