@@ -9,7 +9,7 @@
   </parent>
   <groupId>com.byteslounge.war</groupId>
   <artifactId>com-byteslounge-war</artifactId>
-  
+	<packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>com-byteslounge-war</name>
   <url>http://maven.apache.org</url>
